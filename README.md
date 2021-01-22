@@ -1,4 +1,4 @@
-# my-project
+# vue3-apexcharts-update
 
 ## Project setup
 ```
